@@ -159,6 +159,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Tokens capturados durante el laboratorio
+token.txt
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
